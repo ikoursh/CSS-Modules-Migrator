@@ -2,7 +2,7 @@ CSS to CSS Modules Migrator
 =====
 A quick and dirty script to assist with migrating css to css modules.
 
-#####Note: This is a badly written poorly made script to help with the migration. It will not replace manual work, only minimise it.
+**Note: This is a badly written poorly made script to help with the migration. It will not replace manual work, only minimise it.**
 
 IMPORTANT
 ====
